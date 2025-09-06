@@ -22,7 +22,7 @@ PasswordGenerator/
 ## 🚀 How to Run
 
 ### 1. Clone the repo
-```bash
+
 git clone https://github.com/<your-username>/PasswordGenerator.git
 cd PasswordGenerator
 dotnet build
