@@ -51,8 +51,12 @@ Works on Linux, Windows, and macOS.
 ---
 
 ## Example Output
+```
 Password Generator
 
 Generated password: Zf!9gT2&kR@1xLq7
 Entropy: 103.2 bits
+```
+## License
+Ezzeldeen Mohamed © 2025
 
