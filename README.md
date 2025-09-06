@@ -7,7 +7,7 @@ The project is written with an *OOP structure* (services + utils).
 ---
 
 ## 📂 Project Structure
-
+```
 PasswordGenerator/
 │
 ├── Program.cs
@@ -16,18 +16,18 @@ PasswordGenerator/
 │ └── EntropyCalculator.cs
 └── Utils/
 └── RandomUtils.cs
-
+```
 ---
 
 ## 🚀 How to Run
 
 ### 1. Clone the repo
-
+```bash
 git clone https://github.com/<your-username>/PasswordGenerator.git
 cd PasswordGenerator
 dotnet build
 dotnet run
-
+```
 ---
 
 ## ⚙️ Features
